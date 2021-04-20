@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# git7M3.0
-启蒙上位机3.0版(多线程画图测试版)（账户：拆患 密码：1，该账号和密码兼容启蒙上位机的前几代版本）
+# git7M1.0
+启蒙上位机1.0版(串口通信)（账户：拆患 密码：1）
 <br>
 
 ![BJK_logo icon](https://github.com/bjk12/LittleBird_TypeExercise/blob/main/bjk1.ico)  
@@ -27,12 +26,7 @@
 &#8195;&#8195;**预约开启**是指用户可以使用键盘输入设置开启和关闭串口的时间，软件会在预设的开始时刻打开串口，会在预设的结束时刻关闭串口。<br>
 &#8195;&#8195;这三种高级功能减少了用户调试串口时的工作量，使得电脑与单片机之间的串口通信在无人监管时仍可以安全运行。<br>
 
-&#8195;&#8195;启蒙上位机3.0版在保留上述功能的基础上，又新增了 **隐藏接收** 和 **数据实时可视化** 的功能。<br>
-
 **No picture,No truth:**<br>
-3.0版截图：<br>
-<div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image019.png" alt="pic4_readme"/></div>
-
 1.0版截图：<br>
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image019.png" alt="pic4_readme"/></div>
 <br>
@@ -101,7 +95,3 @@
 <div align=center><img src="https://github.com/bjk12/git7M3.0/blob/main/pic4_readme/image038.png" alt="pic4_readme"/></div><br>
 &#8195;&#8195;如上图所示，用户在登录界面登录成功后点击“定时保存”按钮就可以调出定时保存界面。用户可在定时保存界面按照文字提示预设保存周期，然后点击“开始”按钮开启定时保存功能，即本软件通过不断查询电脑的系统时间，周期性地将接收到的数据以文本文档的格式保存至电脑桌面处，并以当前时间命名的功能。此时“开始”按钮和“退出”按钮被禁止按下。如果用户需要终止定时保存功能，转为手动操作，则需要点击“停止”按钮，终止定时保存功能，同时“开始”按钮和“退出”按钮允许被按下。用户可以点击“退出”按钮退出定时保存界面。<br><br>
 
-=======
-# git7M1.0
-启蒙上位机1.0（串口通信）
->>>>>>> 0b30b08cdc2bf801f1f7b8db361ac70167bffcde
